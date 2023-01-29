@@ -64,3 +64,18 @@ h1{
     background: yellow;
     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
 }
+.main {
+    background: rgb(117, 18, 18);
+    height: 100vh;
+}
+.main_item{
+    max-width: 25%;
+    width: 100%;
+    background: rgb(8, 70, 216);
+    height: 500px;
+}
+.main_block{
+    display: flex;
+    gap: 10px;
+    
+}
